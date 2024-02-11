@@ -1,3 +1,4 @@
+![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/3fd462cd-697d-4d9b-8444-9d7030cb793e)
 # Запуск 
 ```
 python -m venv venv
