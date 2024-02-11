@@ -1,4 +1,4 @@
-# Сайт на django с авторизацией и аутентификацией пользователя. Архитектурный стиль REST API. Swagger.
+# Scrum Board Jira на django с авторизацией и аутентификацией пользователя. Архитектурный стиль REST API. Swagger.
 # Запуск 
 ```
 python -m venv venv
