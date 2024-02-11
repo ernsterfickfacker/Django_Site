@@ -19,6 +19,7 @@ http://127.0.0.1:8000/swagger/
 
 # Добавление на github
 ```
+git init
 git add .
 git commit -m 'commit message here'
 git remote add origin https://github.com/ernsterfickfacker/Django_Site.git 
