@@ -9,6 +9,7 @@ python manage.py createsuperuser
 python manage.py runserver
 ```
 Starting development server at http://127.0.0.1:8000/
+![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/fbebbab3-e304-48ed-b624-052b1d3d2e28)
 ![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/3fd462cd-697d-4d9b-8444-9d7030cb793e)
 
 http://127.0.0.1:8000/swagger/ 
