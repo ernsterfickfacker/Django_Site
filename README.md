@@ -13,7 +13,8 @@ Starting development server at http://127.0.0.1:8000/
 
 http://127.0.0.1:8000/swagger/ 
 ![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/229667ba-5915-49d1-b525-fe964d8248df)
-![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/d522553f-a56d-442f-ae84-e67da4950778)
+![image](https://github.com/ernsterfickfacker/Django_Site/assets/93219479/1a1c7d3f-eb7c-4b72-b862-5d9525618407)
+
 
 # Добавление на github
 ```
